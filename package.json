@@ -1,0 +1,26 @@
+{
+  "name": "saqib-s-dark-symphony",
+  "displayName": "Dark Symphony",
+  "description": "",
+  "publisher": "Saqib Tahir",
+ "author": {
+  "name": "Saqib Tahir",
+ },
+ 
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": " Dark Symphony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ Dark Symphony-color-theme.json"
+      }
+    ]
+  }
+}
