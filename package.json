@@ -4,13 +4,28 @@
   "description": "",
   "publisher": "Saqib Tahir",
  "author": {
-  "name": "Saqib Tahir",
+  "name": "Saqib Tahir"
  },
- 
+
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.89.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/SaqibTahir0201/saqib-s-dark-symphony"
+  },
+  "icon": "./codium_logo.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "symphony",
+    "dark-theme",
+    "dark-mode",
+    "dark-symphony",
+    "pink",
+    "anime"
+  ],
   "categories": [
     "Themes"
   ],
