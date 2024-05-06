@@ -288,6 +288,7 @@
 		{
 			"scope": [
 				"constant.numeric.",
+				"constant.numeric.decimal."
 			],
 			"settings": {
 				"foreground": "#eead63",
@@ -348,7 +349,6 @@
 		{
 			"scope": [
 				"string.quoted.double.",
-				
 			],
 			"settings": {
 				"foreground": "#FF8080", // "#FFEC9E",// "#F8C794", FFC470 FF8080
@@ -360,7 +360,9 @@
 				"punctuation.definition.string.begin.",
 				"punctuation.definition.string.end.",
 				"punctuation.terminator.rule.",
-				"punctuation.separator.list.comma."
+				"punctuation.separator.list.comma.",
+				"punctuation.definition.string.template.end.",
+				"punctuation.definition.string.template.begin.",
 			],
 			"settings": {
 				"foreground": "#5BBCFF", //"#ED9455",DD5746
@@ -391,13 +393,12 @@
 				"fontStyle": "bold"
 			}
 		},
-				//? JS brackets
+		//? JS brackets
 		{
 			"scope": [
 				"punctuation.definition.parameters.begin.",
 				"punctuation.definition.parameters.end.",
 				"meta.brace.round."
-				
 			],
 			"settings": {
 				"fontStyle": "bold"
@@ -411,16 +412,40 @@
 				"fontStyle": ""
 			}
 		},
+		{
+			"scope": [
+				"support.function.math."
+			],
+			"settings": {
+				// "fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"support.constant.math."
+			],
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
 		//********************************
-		// $ JS PY F31559 
+		// $ JS PY F31559 => for equal 00FFCF ,00B7FF
+		{
+			"scope": [
+				"variable.other.constant.",
+			],
+			"settings": {
+				"foreground": "#ffffff",
+				"fontStyle": "bold"
+			}
+		},
 		{
 			"scope": [
 				"variable.other.readwrite.",
-				
-
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#fcf6bd", // "#bfff00",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -437,7 +462,17 @@
 				"punctuation.definition.string.end.",
 			],
 			"settings": {
-				"foreground": "#5BBCFF"
+				"foreground": "#5BBCFF",
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.template-expression.begin.",
+				"punctuation.definition.template-expression.end."
+			],
+			"settings": {
+				"foreground": "#00B7FF",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -459,7 +494,7 @@
 				"storage.type.function.arrow.js"
 			],
 			"settings": {
-				"foreground": "#FFED00",//"#06FF00",
+				"foreground": "#FFED00", //"#06FF00",
 				"fontStyle": "bold "
 			},
 		},
@@ -476,7 +511,6 @@
 			"scope": [
 				"variable.other.object.",
 				"meta.function-call.arguments."
-				
 			],
 			"settings": {
 				"foreground": "#00F5FF", //00ffff
@@ -517,8 +551,8 @@
 				"punctuation.section.function.lambda.begin.",
 				"punctuation.separator.arguments.",
 				"punctuation.section.function.begin.",
-				"punctuation.separator.delimiter."
-				
+				"punctuation.separator.delimiter.",
+				"keyword.operator.logical."
 			],
 			"settings": {
 				"foreground": "#FF8911",
@@ -559,7 +593,6 @@
 		{
 			"scope": [
 				"keyword.control.switch.",
-				
 			],
 			"settings": {
 				"foreground": "#FF5403",
@@ -599,7 +632,7 @@
 			"scope": [
 				"support.class.builtin.",
 				"keyword.control.export.",
-				"support.function.builtin." 
+				"support.function.builtin."
 			],
 			"settings": {
 				"foreground": "#AE00FF",
@@ -645,8 +678,7 @@
 				"fontStyle": ""
 			},
 		},
-		
-
+		//********************************
 		//********************************
 		{
 			"name": "Invalid",
@@ -729,7 +761,6 @@
 				"foreground": "#f07178"
 			}
 		},
-		
 		{
 			"name": "String, Symbols, Inherited Class, Markup Heading",
 			"scope": [
