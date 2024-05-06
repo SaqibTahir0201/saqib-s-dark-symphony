@@ -114,11 +114,12 @@
 		// $ BREADCRUMBS
 		"breadcrumb.foreground": "#bb77ff",
 		"breadcrumb.focusForeground": "#ff00ff",
+		"breadcrumb.background": "#00000000",
 		// $ WIDGETS
 		"widget.shadow": "#ff00ffc5",
 		"editorWidget.foreground": "#cccccc",
-		"editorWidget.background": "#000000b5",
-		"pickerGroup.border": "#ff00ff73",
+		"editorWidget.background": "#00000099",
+		"pickerGroup.border": "#ff00ff",
 		"pickerGroup.foreground": "#ac59ff",
 		"editorWidget.resizeBorder": "#ff00ff73",
 		"debugToolBar.border": "#ff00ff",
@@ -149,7 +150,7 @@
 		"editorLink.activeForeground": "#4e94ce",
 		"editorGroup.border": "#b264ff",
 		// $ SUGGEST WIDGETS
-		"editorSuggestWidget.background": "#000000d9",
+		"editorSuggestWidget.background": "#000000d3",
 		"editorSuggestWidget.border": "#ff00ff00",
 		"editorSuggestWidget.foreground": "#ffffff",
 		"editorSuggestWidget.highlightForeground": "#ff00ff",
@@ -500,11 +501,19 @@
 				"keyword.operator.relational.",
 				"keyword.operator.comparison.",
 				"keyword.operator.arithmetic",
+			],
+			"settings": {
+				"foreground": "#FFFF00", // "#FFD801", //"#06FF00", 00FF80
+				"fontStyle": "bold "
+			},
+		},
+		{
+			"scope": [
 				"storage.type.function.arrow.js"
 			],
 			"settings": {
-				"foreground": "#FFED00", //"#06FF00",
-				"fontStyle": "bold "
+				"foreground": "#00FF00", // f31559
+				"fontStyle": "bold"
 			},
 		},
 		{
@@ -532,7 +541,7 @@
 				"meta.function-call.generic."
 			],
 			"settings": {
-				"foreground": "#7FFF00",
+				"foreground": "#00FF00",
 				"fontStyle": "italic"
 			},
 		},
@@ -633,7 +642,16 @@
 				"keyword.control."
 			],
 			"settings": {
-				"foreground": "#ff0084",
+				"foreground": "#ff0084", //"#ff0084",FF33AA  
+				"fontStyle": "bold"
+			},
+		},
+		{
+			"scope": [
+				"constant.language.boolean.true"
+			],
+			"settings": {
+				"foreground": "#00AAFF", //"#ff0084",FF33AA  
 				"fontStyle": "bold"
 			},
 		},
@@ -703,7 +721,7 @@
 		},
 		{
 			"scope": [
-				// "support.type.property-name.json.comments",
+				// "support.type.property-name.json.comments", 
 			],
 			"settings": {
 				"foreground": "#fcf6bd",
