@@ -428,6 +428,15 @@
 				"fontStyle": "bold"
 			}
 		},
+		{
+			"scope": [
+				"keyword.other.debugger."
+			],
+			"settings": {
+				"foreground": "#FF8911",
+				"fontStyle": "bold"
+			}
+		},
 		//********************************
 		// $ JS PY F31559 => for equal 00FFCF ,00B7FF
 		{
@@ -624,7 +633,7 @@
 				"keyword.control."
 			],
 			"settings": {
-				"foreground": "#ff4b96",
+				"foreground": "#ff0084",
 				"fontStyle": "bold"
 			},
 		},
@@ -679,7 +688,36 @@
 			},
 		},
 		//********************************
-		//********************************
+		// $ JASON 
+		{
+			"scope": [
+				"punctuation.support.type.property-name.begin.json.comments",
+				"punctuation.support.type.property-name.end.json.comments"
+			],
+			"settings": {
+				"foreground": "#ff00ff",
+				"fontStyle": "italic "
+			},
+		},
+		{
+			"scope": [
+				"support.type.property-name.json.comments",
+			],
+			"settings": {
+				"foreground": "#fcf6bd",
+				"fontStyle": ""
+			},
+		},
+		{
+			"scope": [
+				"constant.language.json.comments",
+			],
+			"settings": {
+				"foreground": "#0077FF",
+				"fontStyle": ""
+			},
+		},
+		//******************************** 
 		{
 			"name": "Invalid",
 			"scope": [
