@@ -1,16 +1,79 @@
-# saqib-s-dark-symphony README
+<h1 align="left">Dark Symphony</h1>
 
-## Working with Markdown
+###
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<h2 align="left">VS Code theme by the developer for the developer</h2>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+###
 
-## For more information
+<p align="left"></p>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+###
 
-**Enjoy!**
+<h3 align="left">for font Ligatures install  " Fira Code iScript "  and  set value true "editor.fontLigatures": true, in setting.json if false</h3>
+
+###
+
+<h4 align="left">box shadow 😱</h4>
+
+###
+
+<div align="center">
+  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-23-17.png"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-23-40.png"  />
+</div>
+
+###
+
+<h2 align="left">for better experience...</h2>
+
+###
+
+<p align="left">// write this in your setting.json.<br>// you can change this as your need<br><br>"workbench.colorCustomizations": {<br>        "editorBracketHighlight.foreground1": "#0AFFFF",<br>        "editorBracketHighlight.foreground2": "#ff00ff",<br>        "editorBracketHighlight.foreground3": "#FF8911",<br>        "editorBracketHighlight.foreground4": "#06FF00",<br>        "editorBracketHighlight.foreground5": "#FFEA20",<br>        "editor.lineHighlightBorder": "#ffffff00",<br>    }, <br><br>// change sidebar location <br>"workbench.sideBar.location": "right",</p>
+
+###
+
+<h4 align="left">HTML Demo...</h4>
+
+###
+
+<div align="center">
+  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-20-01.png"  />
+</div>
+
+###
+
+<h4 align="left">CSS demo...</h4>
+
+###
+
+<div align="center">
+  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-22-13.png"  />
+</div>
+
+###
+
+<h4 align="left">JS Demo...</h4>
+
+###
+
+<div align="center">
+  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-43-36.png"  />
+</div>
+
+###
+
+<h4 align="left">Python demo...</h4>
+
+###
+
+<div align="center">
+  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-59-01.png"  />
+</div>
+
+###
