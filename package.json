@@ -3,11 +3,10 @@
   "displayName": "Dark Symphony",
   "description": "",
   "publisher": "Saqib Tahir",
- "author": {
-  "name": "Saqib Tahir"
- },
-
-  "version": "0.0.4",
+  "author": {
+    "name": "Saqib Tahir"
+  },
+  "version": "1.1.4",
   "engines": {
     "vscode": "^1.88.1"
   },
@@ -15,7 +14,6 @@
     "type": "git",
     "url": "git://https://github.com/SaqibTahir0201/saqib-s-dark-symphony"
   },
-  
   "keywords": [
     "theme",
     "dark",
@@ -26,6 +24,7 @@
     "pink",
     "anime"
   ],
+  "icon": "img/codium_logo.png",
   "categories": [
     "Themes"
   ],
@@ -35,6 +34,11 @@
         "label": " Dark Symphony",
         "uiTheme": "vs-dark",
         "path": "./themes/ Dark Symphony-color-theme.json"
+      },
+      {
+        "label": " Dark Symphony v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Symphony-color-theme-V2.json"
       }
     ]
   }
