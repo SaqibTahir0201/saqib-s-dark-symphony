@@ -18,14 +18,14 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="500" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-23-17.png"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-23-40.png"  />
+  <img height="500" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-23-40.png"  />
 </div>
 
 ###
@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-20-01.png"  />
+  <img height="500" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-20-01.png"  />
 </div>
 
 ###
@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-22-13.png"  />
+  <img height="500" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-22-13.png"  />
 </div>
 
 ###
@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-43-36.png"  />
+  <img height="500" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-43-36.png"  />
 </div>
 
 ###
@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-59-01.png"  />
+  <img height="500" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-59-01.png"  />
 </div>
 
 ###
