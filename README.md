@@ -18,8 +18,8 @@
 
 ###
 
-<div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-23-17.png"  />
+<div align="left">
+  <img height="500" src="https://raw.githubusercontent.com/SaqibTahir0201/saqib-s-dark-symphony/master/Demo%20Img/Screenshot%20at%202024-05-21%2014-23-17.png"  />
 </div>
 
 ###
