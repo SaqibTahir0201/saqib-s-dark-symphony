@@ -4,6 +4,7 @@
 	"name": " Dark Symphony",
 	"window.zoomLevel": 2.2,
 	"editor.fontSize": 19,
+	"workbench.sideBar.location": "right",
 	"colors": {
 		//$ GENERAL
 		"editor.background": "#000000",
